@@ -1,3 +1,7 @@
+# Tech Forge - Projeto FullStack Nota Alta
+
+Projeto pronto para apresentação e execução local, alinhado com a rubrica do PDF da disciplina.
+
 ## O que entrega
 - Backend em Node.js + Express + TypeScript + POO
 - Banco SQLite com Prisma
